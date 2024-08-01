@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @ahmedjunaedn
 - 👀 I’m interested in computing
 - 🌱 I’m currently learning as a student
+- 💾 I'm interested in Software
+- 🎨 I'm enthusiastic at graphics
+- 🎮 I'm a lightweight but casual gamer
 - 📫 I'm from Bangladesh
 
 <!---
