@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @ahmedjunaedn
-- 👀 I’m interested in computing
-- 🌱 I’m currently learning as a student
-- 💾 I'm interested in Software
-- 🎨 I'm enthusiastic at graphics
-- 🎮 I'm a lightweight but casual gamer
-- 📫 I'm from Bangladesh
+## Hey there! 👋 
+You're currently seeing a GitHub profile of **`Ahmed Junaed Nur`**
 
-<!---
-ahmedjunaedn/ahmedjunaedn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Now, who's `Ahmed Junaed Nur`? 🤔
+**`Ahmed Junaed Nur`** (also known as, **`The AJN`**) is:
+
+- 🧒 A human being.
+- 🧑‍🎓 A student.
+- 🧑‍💻 A tech enthusiast.
+- 🐧 A Linux enthusiast.
+- 💾 A software enthusiast.
+- 🎨 An amateur graphic designer.
+- 🎥 A content creator.
